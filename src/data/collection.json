@@ -4,6 +4,7 @@
 		"name": ".NET Goat",
 		"collection": [
 			"offline"
+			//note the date
 		],
 		"technology": [
 			"C#"
